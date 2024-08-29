@@ -11,4 +11,6 @@ The core of this code is how to use Buster to solve captchas, enabling Buster to
 
 Demo can be seen in `Demo/Demo.mp4`
 
+[![Recaptcha Solver Demo](https://img.youtube.com/vi/IB93Hxq3jYk/0.jpg)](https://www.youtube.com/watch?v=IB93Hxq3jYk)
+
 Thank you for visiting. If you have any questions, please email kevinsean.lopulalan@gmail.com.
