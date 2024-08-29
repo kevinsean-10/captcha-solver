@@ -12,5 +12,6 @@ The core of this code is how to use Buster to solve captchas, enabling Buster to
 Demo can be seen below:
 
 [![DEMO VIDEO](https://raw.githubusercontent.com/kevinsean-10/captcha-solver/main/Demo/Thumbnail.png)](https://raw.githubusercontent.com/username/repository/branch/Demo/Demo.mp4)
+https://github.com/kevinsean-10/captcha-solver/blob/698db60f8ab47d55f4e7853b34d3acd5d971b088/Demo/Demo.mp4
 
 Thank you for visiting. If you have any questions, please email kevinsean.lopulalan@gmail.com.
