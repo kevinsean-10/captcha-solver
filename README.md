@@ -9,7 +9,7 @@ using Buster 3.1.0 as an extension to solve Recaptcha V2.
 
 The core of this code is how to use Buster to solve captchas, enabling Buster to complete the captcha challenges.
 
-Demo can be seen in `Demo/Demo.mp4`
+Demo can be seen below:
 
 [![Recaptcha Solver Demo](https://img.youtube.com/vi/IB93Hxq3jYk/0.jpg)](https://www.youtube.com/watch?v=IB93Hxq3jYk)
 
